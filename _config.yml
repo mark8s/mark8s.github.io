@@ -26,7 +26,7 @@
 
 title: Mark's Blogs
 email: leis17@163.com
-author: mark8s
+author: 易磊
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,7 @@ author: mark8s
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Copyright © 2022-{currentYear} {author}. All rights reserved."
+copyright: "Copyright © 2022-{currentYear} 易磊. All rights reserved."
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
